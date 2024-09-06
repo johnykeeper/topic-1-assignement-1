@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
+            //jonathan
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("finished 100%");
         }
     }
 }
